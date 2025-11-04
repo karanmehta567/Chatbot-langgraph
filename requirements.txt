@@ -6,7 +6,7 @@ dotenv
 langchain
 langchain-core
 langchain-groq
-langgraph
+langgraph>=0.0.46
 
 
 
