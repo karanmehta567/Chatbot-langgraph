@@ -1,13 +1,10 @@
-# Streamlit frontend
+# Core frameworks
 streamlit
-dotenv
+python-dotenv
 
-# LangChain ecosystem
-langchain
-langchain-core
-langchain-groq
-langgraph>=0.0.46
-
-
-
+# LangChain ecosystem (ensure updated versions)
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-groq>=0.1.0
+langgraph>=0.0.46  # SqliteSaver support added from this version onward
 
