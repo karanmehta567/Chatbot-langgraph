@@ -54,6 +54,7 @@ SQLite saves context (thread ID, user messages, and assistant responses).
 
 Streamlit renders an interactive interface to chat in real time.
 
+<img width="1765" height="902" alt="image" src="https://github.com/user-attachments/assets/76a26698-8c1f-424b-be10-918f302ff960" />
 
 This project is open-source and available under the MIT License.
 
