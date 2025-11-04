@@ -8,11 +8,6 @@ langchain-core
 langchain-groq
 langgraph
 
-# LLMs and integrations
-openai
 
-# Database & utilities
-sqlite3-binary
-uuid
 
 
